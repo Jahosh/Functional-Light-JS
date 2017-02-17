@@ -5,7 +5,7 @@ Functional Programming is **not just programming with the `function` keyword.** 
 
 But, how sure are you that you know what *function* means?
 
-In this chapter, we're going to lay the groundwork for the rest of the book by covering all the foundational aspects of functions. In some ways, the content here is a review of all the things even a non-FP programmer should know about functions. But if we want to get the most out learning FP concepts, we've got to *know* functions inside and out.
+In this chapter, we're going to lay the groundwork for the rest of the book by covering all the foundational aspects of functions. In some ways, the content here is a review of all the things even a non-FP programmer should know about functions. But if we want to get the most out of learning FP concepts, we've got to *know* functions inside and out.
 
 Brace yourself, because there's a lot more to the function than you may have realized.
 
